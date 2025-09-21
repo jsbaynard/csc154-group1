@@ -1,2 +1,4 @@
-# csc154-group1
-Group 1 Project
+# GitHub Workflow
+- **Clone Repo once onto your own machine**
+- **Branching**
+-   
